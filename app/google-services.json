@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528129023938",
+    "project_id": "baby2body-a0f5b",
+    "storage_bucket": "baby2body-a0f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528129023938:android:fca0ff1ec2d8d087c8005b",
+        "android_client_info": {
+          "package_name": "com.example.baby2body"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528129023938-7l9vuke23i3uv6rgk6l3g97v0psfm8di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baby2body",
+            "certificate_hash": "208a6aede06e14ead3f7bf4dd50ea3e0abea572e"
+          }
+        },
+        {
+          "client_id": "528129023938-b7u5jr0sv9nurt9c9g7im2q21dplie09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWSp2fxuniiqbYm7XzfpzZI7J_WWnfnWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528129023938-b7u5jr0sv9nurt9c9g7im2q21dplie09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

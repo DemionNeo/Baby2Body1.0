@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baby2Body</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="trimesters">
+        <item>Select your Trimester</item>
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+</resources>

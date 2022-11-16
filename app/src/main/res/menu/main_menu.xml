@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_login"
+        android:title="Home"/>
+    <item
+        android:id="@+id/sentEmail"
+        android:icon="@drawable/ic_email"
+        android:title="Email"/>
+
+    <item
+        android:id="@+id/compatible"
+        android:icon="@drawable/ic_person"
+        android:title="Compatible"/>
+
+
+    <item android:title="Trimester">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/first_trimester"
+                    android:icon="@drawable/ic_first_trimester"
+                    android:title="First Trimester"/>
+                <item
+                    android:id="@+id/second_trimester"
+                    android:icon="@drawable/ic_second_trimester"
+                    android:title="Second Trimester"/>
+                <item
+                    android:id="@+id/third_trimester"
+                    android:icon="@drawable/ic_third_trimester"
+                    android:title="Third Trimester"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Actions">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/circleimage"
+                    android:title="Profile"/>
+                <item
+                    android:id="@+id/notifications"
+                    android:icon="@drawable/ic_notifications"
+                    android:title="Notifications"/>
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_login"
+                    android:title="Log Out"/>
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_about"
+                    android:title="About"/>
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/ic_share"
+                    android:title="Share"/>
+
+            </group>
+        </menu>
+    </item>
+
+</menu>
